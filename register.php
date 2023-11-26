@@ -17,7 +17,7 @@ if(isset($_GET["pesan"])){
 <center>
     <div class="cardd">
         <div class="hal_log">Register</div>
-        <form style = "padding : 15px; color : white;" action="inputreg.php" method="post">
+        <form style = "padding : 15px; color : black;" action="inputreg.php" method="post">
   <div class="mb-3" >
     <label for="exampleInputEmail1" class="form-label">Username</label>
     <input type="text" class="form-control logb" id="exampleInputEmail1" aria-describedby="emailHelp" name="username">
